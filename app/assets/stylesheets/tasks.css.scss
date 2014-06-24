@@ -1,0 +1,23 @@
+h1 { font-size: 100px; }
+h2 { font-size: 60px;  }
+ul { list-style-type: none; }
+a { text-decoration: none; }
+
+.add-todo { margin-left: 20px; }
+
+.completed {
+  .title {
+    text-decoration: line-through;
+    color: #696969;
+  }
+}
+
+.tasks-wrapper {
+  margin-left: 20px;
+  .task {
+    margin-bottom: 20px;
+    .title {
+      font-size: 30px;
+    }
+  }
+}

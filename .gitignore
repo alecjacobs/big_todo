@@ -1,0 +1,15 @@
+log
+tmp
+vendor
+
+log/**
+tmp/**
+vendor/**
+
+log/**/*
+tmp/**/*
+vendor/**/*
+
+log/*
+tmp/*
+vendor/*
